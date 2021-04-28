@@ -9,6 +9,7 @@ This is a basic tutorial showing one how to record midi and lay down some simple
   ![Keyboard](https://images-na.ssl-images-amazon.com/images/I/61oQpgBECEL._AC_SL1500_.jpg)
   - An Audio Interface
     [Scarlett Solo](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-solo)
+    ![SOLO](https://focusrite.com/sites/focusrite/files/scarlettsolo-hero-806-330.png)
   - Reaper (Fully Installed and set-up)
     [Reaper](https://www.reaper.fm/)
     [Tutorial on Setting Up Reaper w/ Audio Interface](https://www.youtube.com/watch?v=2vD0LJd9f90)

@@ -10,4 +10,4 @@ Let us now get our drum sounds for this recording. I use this [website](https://
 
 
 
-(/File Setup.md)
+[File Setup](/File Setup.md)

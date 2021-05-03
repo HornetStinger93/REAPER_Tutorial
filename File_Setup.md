@@ -8,3 +8,4 @@ This is not too difficult but I have included pictures to help you along.
   - Next, once the .dll file has been extracted to your folder in VSTplugins, extract the sound samples that you got from the website to the same folder. So you should have another folder now extracted into your new folder called RKsamples. This houses all of the samples we will be using with the VST. If you get stuck at any point in this or if this is not useful there is another tutorial on the Keys of the 70s website. 
 
 ## Congratulations on setting up your files please proceed to the next step.
+### It's time to get [Track Ready](/Track_Ready.md)

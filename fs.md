@@ -10,7 +10,8 @@ Now download the file samples. I chose the largest one but you do not have to.
 ![2f](/2f.png)
 ## Second Step
 Let us now get our drum sounds for this recording. I use this [website](https://samples.kb6.de/downloads.php#att) that contains many free drum machine samples. For the purposes of this tutorial we will download the Linn-LM1 #167 on the page. 
-
+Click on the name of this one to download.
+![linn](/3f.png)
 
 
 [File Setup](/File_Setup.md)

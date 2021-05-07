@@ -11,7 +11,7 @@ We will learn:
 ## Adding EQ
 Eq is just editing the frequencies that are boosted or limited in a given track or track as a whole. To add eq we need to open the *FX* page for our piano track. Once open click *add*
 
-![add](/e1.png)
+![add](/1e.png)
 
 Then go to the EQ bar and select ReaEQ Cockos.
 

@@ -29,9 +29,11 @@ This is a basic tutorial showing one how to record midi and lay down some simple
  
  [6. Recording Keys](/Recording_Keys.md)
  
- [7. Editing Keys](/effects.md)
+ [7. Editing Keys](/Editing_Keys.md)
  
- [8. Exporting](/Exporting_File.md)
+ [8. Effects](/effects.md)
+ 
+ [9. Exporting](/Exporting_File.md)
  
  [Closing Remarks](/Closing.md)
  

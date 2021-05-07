@@ -10,3 +10,26 @@ This is relativley simple as we have already recorded drums and recording keys i
 
 Once you ahve finished recording you can move on to the next step. 
 ### [Editing Keys](/Editing_Keys.md)
+
+
+### Other Pages
+  
+  [1.README](/README.md)
+  
+  [2.First Steps](/fs.md)
+  
+ [3.Track Ready](/Track_Ready.md)
+ 
+ [4. Recording Drums](/Recording_Drums.md)
+ 
+ [5. Editing Drums](Editing_Drums.md)
+ 
+ [6. Recording Keys](/Recording_Keys.md)
+ 
+ [7. Editing Keys](/Editing_Keys.md)
+ 
+ [8. Effects](/Effects.md)
+ 
+ [9. Exporting](/Exporting_File.md)
+ 
+ [Closing Remarks](/Closing.md)

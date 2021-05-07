@@ -25,8 +25,25 @@ Before we move on to the snare we need to set up a key for this sample to play. 
 
 ![c](/4rd.png)
 
-Now repeat the steps above but select the *sd1* sample from the browser. So add in a new SamplOmatic5000 fx module and select the sd1 sample. For our snare drum we want it to play on the C# key so we set the start and end note to 61. NOTE: you can pick any note you want these just work best for me and for writing. 
+Now repeat the steps above but select the *sd1* sample from the browser. So add in a new SamplOmatic5000 fx module and select the sd1 sample. For our snare drum we want it to play on the C# key (or Db) so we set the start and end note to 61. NOTE: you can pick any note you want these just work best for me and for writing. 
 
 ![SD1](/5rd.png)
 
+## How to record the track.
+To start, now that we have our samples set-up to our keyboard we need to do like we did with the piano and arm the drum track. Please disarm the piano track by clicking the piano's record arm button if it is activated. With the drum track armed now select the AKM320 ---> all channels selection
+
+![akm](/8rd.png)
+
+Now take some time planning out a drum pattern. For a simple one, do a kick on beats 1 and 3 and snare on beats 2 and 4. Once you feel that you have a pattern to play we can move to recording it.
+
+## Recording
+This is the hardest part, but in the next section we can fix some mistakes if they come up. First turn on the metronome in the modules box above the track area. It will look like an analog metronome. Set it to the specifications below. 
+
+![metronome](/6rd.png)
+
+Now when you are ready click the record button that is above your fader section or pres Cntrl + r and start playing the beat have two measures of metronome. Record about 4 measures of material or just 1 if you would like to loop the same thing over and over which we will get to later. 
+
+![asdfa](/7rd.png)
+
+## Nice job now you have recorded your first drum track! Time to Edit it. 
 ### [Editing Drums](/Editing_Drums.md)

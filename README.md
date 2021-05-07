@@ -18,4 +18,5 @@ This is a basic tutorial showing one how to record midi and lay down some simple
   Now that you have Reaper set up let us move on to opening Reaper and first steps in this tutorial.
   
   [First Steps](/fs.md)
+  ![asdfa](/1f.png)
   

@@ -12,17 +12,35 @@ Here is what we will acomplish:
  Nice job on getting your new track open. Now we will get our 70s sound going.
  ## 2. Getting our 70s VST set-up
  First click on the *FX* button on the piano track.
+ 
  ![Piano track](/3tr.png)
+ 
  After that a new window will open. We need to click on the *Add* button at the bottom of the new window.
+ 
  ![Window](/4tr.png)
+ 
  Another new window will open and at the upper right corner click on the *FX* dropdown menu and select scan for new plugins or press F5.
+ 
  ![scan](/5tr.png)
+ 
  The *Sound of the 70s* VST should now be loaded. Double click on it in the VSTi window.
+ 
  ![70s](/6tr.png)
+ 
  This will open a new windo containg the 70s vst module. Go and click on the directory path and send it to where we placed our sound samples that we got from the 70s sight not the drum samples. This is shown below.
+ 
  ![samples](/7tr.png)
+ 
  Now that our sounds are loaded we are almost ready to start playing around with the VST. First you need to click the record arm/disarm red button on the track pannel.
+ 
  ![Tack](8tr.png)
+ 
+ From there we need to select our midi keyboard which should be recongnized by REAPER. If you are not able to complete this step consult this tutorial. [How to install midi controler](https://www.youtube.com/watch?v=QV9WkY4Zy_I&t=51s)
+You need to expand the track window so take your mouse to the bottom edge and then click and drag downwards.
+A new pannel should appear saying "input 1" click on it and then go to midi ---> AKM320 ---> and click all channels.
+![1](/9tr.png)
+![2](/10tr.png)
+
  
 
 

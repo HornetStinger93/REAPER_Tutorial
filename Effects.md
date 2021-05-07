@@ -43,8 +43,16 @@ To edit the purple line, right click on an area you would like to add a modifiab
 
 With this point you can edit if it is high or low. The higher your point the more higher frequencies will be let through and the lower the less higher frequencies will be let through. I set mine up to have a peak in the middle and then level out at the ends and beginnings. Shown below:
 
-![peak](/8e.png)
+![peak](/e8.png)
 
+
+Now you have a shifting low frequency pass filter. This is quite cool. 
+
+Bonus tip:
+
+Use the BPM editor and time signature editor to change up the feel of your song. Make it slower or make it faster and Reaper will automatically convert your recorded music to that speed. 
+
+![asdr](/9e.png)
 
 
 

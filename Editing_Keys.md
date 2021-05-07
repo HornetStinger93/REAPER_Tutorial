@@ -1,7 +1,10 @@
 # Editing Keys
 Editing keys is also similar to editing drums but there are a few differences.
 Here is what we will learn:
+
 1.Midi Editor Keys edition
+
+
 2.How to shift midi notes and lengths
 
 ## Midi editor keys edition

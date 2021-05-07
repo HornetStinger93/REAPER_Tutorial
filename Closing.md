@@ -1,6 +1,7 @@
 # Closing Remarks
-Congratulations on finishing the tutorial I hoe it went well for you. Here is another resource that helped me learn how to use Reaper outside of just playing around in the suite.
+Congratulations on finishing the tutorial I hoe it went well for you. Here is another resource that helped me learn how to use Reaper outside of just playing around in the suite. Your challenge now is to make something better and always imporve on your skill. 
 
+[A Link to what I made](https://youtu.be/csuRBmxeP9M)
 [Reaper 101 Playlist](https://youtube.com/playlist?list=PLOXcoJa5jjNUkuAx8ACDDOINyXf7jtocS)
 
 Thanks, have a lovely day!

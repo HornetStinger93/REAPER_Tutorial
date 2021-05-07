@@ -7,9 +7,12 @@ Here is what we will acomplish:
 
 ## 1. Creating a new track in Reaper
  This is really quite simple all you need to do is right click on the side pannel below the array of squares and select "Insert New Track" 
+ 
  ![Insert](/1tr.png)
+ 
  This will be our piano track so you can double click the nameplate and title it *Piano*.
  Nice job on getting your new track open. Now we will get our 70s sound going.
+ 
  ## 2. Getting our 70s VST set-up
  First click on the *FX* button on the piano track.
  
@@ -31,6 +34,8 @@ Here is what we will acomplish:
  
  ![samples](/7tr.png)
  
+ ## Getting MIDI setup to record
+ 
  Now that our sounds are loaded we are almost ready to start playing around with the VST. First you need to click the record arm/disarm red button on the track pannel.
  
  ![Tack](8tr.png)
@@ -41,6 +46,7 @@ A new pannel should appear saying "input 1" click on it and then go to midi --->
 ![1](/9tr.png)
 ![2](/10tr.png)
 
+Now, when the record arm button is on, you can play keyboard with your midi controller. It is fun and you can lose track of time doing it. Now we are ready to record our drums/ get the drum track set-up. 
  
 
 
